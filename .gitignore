@@ -1,0 +1,17 @@
+# Roblox place/model files built by Rojo
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Editor / OS junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tooling
+sourcemap.json
+Packages/
